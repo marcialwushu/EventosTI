@@ -1,4 +1,6 @@
-export let EVENTOS = [
+import { Evento } from '../models/evento';
+
+export const EVENTOS: Evento[] = [
   {
     id: 1,
     nome: "HackerSec Conference 2020",

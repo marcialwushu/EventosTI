@@ -10,7 +10,7 @@
 </ion-header>
 
 <ion-content class="card-background-page">
-  <ion-card class="">
+  <!-- <ion-card class="">
     <img src="https://tech.eu/wp-content/uploads/2019/06/web-summit.png" alt=""/>
     <ion-card-header>
       <ion-card-subtitle>(Lisbon, Portugal)</ion-card-subtitle>
@@ -23,15 +23,15 @@
       <ion-card-subtitle><strong>Data:</strong>04 a 07 de Novembro</ion-card-subtitle>
     </ion-card-header>
     <ion-card-content>
-      <!-- <p>
+      <p>
         The Web Summit is the most important annual tech event, it will focus on disruptive innovation looking at Brand awareness, Thought leadership, Networking and Generation.
 
 The event welcomes over 2,600 journalists from the world’s leading publications. They’re part of the reason why the event has a global reach of over 3 billion. Maybe you want to place your company front and centre of an industry issue. Maybe you’ve got a new product to launch. They can set up roundtables and workshops for you to host. You’ll be right in the middle of the action, leading discussions with targeted demographics on the topics that matter most to you.  There is a specific track for every industry. Whether you want to hire tech’s top talent, meet with the policymakers influencing your industry or exchange notes with your peers and competitors, they have the stage, lounge and evening event for you. 70,000 people will be joining at Web Summit this November. These people are deeply embedded in the fabric of their respective industries, and are the people who dictate how quickly new technologies are adopted
-      </p> -->
+      </p>
     </ion-card-content>
-  </ion-card>
+  </ion-card> -->
 
-  <ion-card class="">
+  <!-- <ion-card class="">
     <img src="https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F78077459%2F302329341229%2F1%2Foriginal.20191024-153613?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C120%2C1920%2C960&s=257b0d370ff695cb67a6aea2589eb9eb" alt=""/>
     <ion-card-header>
       <ion-card-subtitle>São Paulo</ion-card-subtitle>
@@ -48,21 +48,30 @@ The event welcomes over 2,600 journalists from the world’s leading publication
       <ion-card-subtitle><strong>Data:</strong>sáb, 7 de março</ion-card-subtitle>
     </ion-card-header>
     <ion-card-content>
-      <!-- <p>
+      <p>
         Promovido pela Hacker Security e aberto ao público o objetivo do evento HackerSec Conference é reunir os especialistas de cibersegurança mais conhecidos do Brasil para discutir sobre inovação na área de segurança da informação e mostrar na prática as armas cibernéticas.
       <br>
       A Hacker Security
 
 É uma empresa internacional de segurança cibernética fundada em 2011. Com a equipe de segurança da informação mais conhecida do Brasil. Mais de 250.000 seguidores em todo o mundo e mais de 5.000 clientes entre usuários e empresas em todo território nacional e internacional.
       
-      </p> -->
+      </p>
     </ion-card-content>
-  </ion-card>
+  </ion-card> -->
 
-  <ion-card>
-    <img src="https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F78077459%2F302329341229%2F1%2Foriginal.20191024-153613?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C120%2C1920%2C960&s=257b0d370ff695cb67a6aea2589eb9eb" alt=""/>
-    <div class="card-title">São Paulo</div>
-    <div class="card-subtitle">HackerSec Conference 2020</div>
+  <ion-card *ngFor="let event of eventos"  >
+  <img src="{{event.imagem}}"/>
+  <ion-card-header>
+  <!-- <ion-card-subtitle>{{event.local}}</ion-card-subtitle> -->
+  <ion-card-title>{{event.nome}}</ion-card-title>
+  <ion-card-subtitle class="">{{event.organizacao}}</ion-card-subtitle>
+  <ion-card-subtitle><strong>Website:</strong><a href="{{event.website}}"></a>{{event.organizacao}}</ion-card-subtitle>
+  <ion-card-subtitle>{{event.local}}</ion-card-subtitle>
+  </ion-card-header>
+  <ion-card-content>
+    {{event.conteudo}}
+  </ion-card-content>
+  
   </ion-card>
 
   
