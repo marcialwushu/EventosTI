@@ -59,20 +59,44 @@ The event welcomes over 2,600 journalists from the world’s leading publication
     </ion-card-content>
   </ion-card> -->
 
-  <ion-card *ngFor="let event of eventos"  >
+  <ion-row>
+    <ion-col >
+      <ion-card *ngFor="let event of eventos">
+        <img src="{{event.imagem}}" />
+        <ion-card-header>
+          <!-- <ion-card-subtitle>{{event.local}}</ion-card-subtitle> -->
+          <ion-card-title>{{event.nome}}</ion-card-title>
+          <ion-card-subtitle class="">{{event.organizacao}}</ion-card-subtitle>
+          <ion-card-subtitle>
+            <strong>Website:</strong>
+            <a href="{{event.website}}">{{event.organizacao}}</a>
+          </ion-card-subtitle>
+          <ion-card-subtitle>{{event.local}}</ion-card-subtitle>
+        </ion-card-header>
+        <ion-card-content>
+          {{event.conteudo}}
+        </ion-card-content>
+      
+      </ion-card>
+
+    </ion-col>
+    
+  </ion-row>
+
+  <!-- <ion-card *ngFor="let event of eventos"  >
   <img src="{{event.imagem}}"/>
   <ion-card-header>
-  <!-- <ion-card-subtitle>{{event.local}}</ion-card-subtitle> -->
+  <ion-card-subtitle>{{event.local}}</ion-card-subtitle>
   <ion-card-title>{{event.nome}}</ion-card-title>
   <ion-card-subtitle class="">{{event.organizacao}}</ion-card-subtitle>
-  <ion-card-subtitle><strong>Website:</strong><a href="{{event.website}}"></a>{{event.organizacao}}</ion-card-subtitle>
+  <ion-card-subtitle><strong>Website:</strong><a href="{{event.website}}">{{event.organizacao}}</a></ion-card-subtitle>
   <ion-card-subtitle>{{event.local}}</ion-card-subtitle>
   </ion-card-header>
   <ion-card-content>
     {{event.conteudo}}
   </ion-card-content>
   
-  </ion-card>
+  </ion-card> -->
 
   
 

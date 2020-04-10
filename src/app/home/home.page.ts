@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { MenuController } from '@ionic/angular';
 import { EventosService } from './../services/eventos.service';
 import { EVENTOS } from '../services/mock-eventos';
 
@@ -9,16 +10,23 @@ import { EVENTOS } from '../services/mock-eventos';
 })
 export class HomePage {
 
-  hideMe=false;
+  hideMe=true;
   //list of events
   eventosData: any;
   // _evento = [];
   public _evento: Array<{}> = [];
 
-  constructor(public eventosService: EventosService) {
+  constructor(public eventosService: EventosService, private menuCtrl: MenuController) {
     //set sample data
     // this.eventosData = [];
   }
+
+
+  ionViewWillEnter() {
+    this.menuCtrl.enable(false);
+
+  }
+
 
   get eventos(){
     return this._evento = EVENTOS;
