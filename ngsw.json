@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1586557394706,
+  "timestamp": 1586587206292,
   "index": "https://marcialwushu.github.io/EventosTI/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "https://marcialwushu.github.io/EventosTI/100-es2015.def02c9355e2fd973096.js",
         "https://marcialwushu.github.io/EventosTI/100-es5.def02c9355e2fd973096.js",
-        "https://marcialwushu.github.io/EventosTI/14-es2015.a7eef83c6c7b1a4433c8.js",
-        "https://marcialwushu.github.io/EventosTI/14-es5.a7eef83c6c7b1a4433c8.js",
+        "https://marcialwushu.github.io/EventosTI/14-es2015.bf975f4d338f0c1b14f9.js",
+        "https://marcialwushu.github.io/EventosTI/14-es5.bf975f4d338f0c1b14f9.js",
         "https://marcialwushu.github.io/EventosTI/15-es2015.3c358db191b0fc9d8115.js",
         "https://marcialwushu.github.io/EventosTI/15-es5.3c358db191b0fc9d8115.js",
         "https://marcialwushu.github.io/EventosTI/16-es2015.d92b37669cad055c1ae3.js",
@@ -205,8 +205,8 @@
         "https://marcialwushu.github.io/EventosTI/main-es5.6dafe277848992156c36.js",
         "https://marcialwushu.github.io/EventosTI/polyfills-es2015.d82294eab3776add2aea.js",
         "https://marcialwushu.github.io/EventosTI/polyfills-es5.669d900ea7d78c1ac512.js",
-        "https://marcialwushu.github.io/EventosTI/runtime-es2015.2ed186a0a09068eb2a45.js",
-        "https://marcialwushu.github.io/EventosTI/runtime-es5.2ed186a0a09068eb2a45.js",
+        "https://marcialwushu.github.io/EventosTI/runtime-es2015.a60e3c0a16a84a1917b5.js",
+        "https://marcialwushu.github.io/EventosTI/runtime-es5.a60e3c0a16a84a1917b5.js",
         "https://marcialwushu.github.io/EventosTI/styles.e3faa02aef6c16ff40e8.css"
       ],
       "patterns": []
@@ -234,8 +234,8 @@
   "hashTable": {
     "https://marcialwushu.github.io/EventosTI/100-es2015.def02c9355e2fd973096.js": "c16996f61efca39ce7e608739b53ed0c63476200",
     "https://marcialwushu.github.io/EventosTI/100-es5.def02c9355e2fd973096.js": "722a6e71ebb168d2db1c8ecc69b1d1454d34a001",
-    "https://marcialwushu.github.io/EventosTI/14-es2015.a7eef83c6c7b1a4433c8.js": "dbf9f9b2164881080ee8494fa631c74548717b67",
-    "https://marcialwushu.github.io/EventosTI/14-es5.a7eef83c6c7b1a4433c8.js": "c09c95904bd1e98222149e754bfc62cb9f6fa124",
+    "https://marcialwushu.github.io/EventosTI/14-es2015.bf975f4d338f0c1b14f9.js": "a2f3b68c31889d5be6d43e810d24e7b37e49608d",
+    "https://marcialwushu.github.io/EventosTI/14-es5.bf975f4d338f0c1b14f9.js": "1e4f3a5e7a9bbc121da2c5e68e9410541452ef7e",
     "https://marcialwushu.github.io/EventosTI/15-es2015.3c358db191b0fc9d8115.js": "daaf1c54009eaab802725ed9744ff8971206ae1c",
     "https://marcialwushu.github.io/EventosTI/15-es5.3c358db191b0fc9d8115.js": "ef6139989b9a95eeebcbce8ba602ece0f4e5222a",
     "https://marcialwushu.github.io/EventosTI/16-es2015.d92b37669cad055c1ae3.js": "f512ff16a3ae7e013921fa4c7e1115d32f55e62e",
@@ -434,13 +434,13 @@
     "https://marcialwushu.github.io/EventosTI/assets/shapes.svg": "638f87e27e6fc7ddfd6e6b262ea70d690f6c7011",
     "https://marcialwushu.github.io/EventosTI/common-es2015.556eed6f766e47b56bb7.js": "917e973084c747f33f20920a35ad3e94c156ad7c",
     "https://marcialwushu.github.io/EventosTI/common-es5.556eed6f766e47b56bb7.js": "a0ca53073b5eb13b81978a477db95acd055fc1a0",
-    "https://marcialwushu.github.io/EventosTI/index.html": "143d0ac7662da414fcfdfbee19c97a968ddc0fa9",
+    "https://marcialwushu.github.io/EventosTI/index.html": "826395474951ced668d45c9d397357af239c5767",
     "https://marcialwushu.github.io/EventosTI/main-es2015.6dafe277848992156c36.js": "974119910de7bb99f0f875e5aaa33852d12c511a",
     "https://marcialwushu.github.io/EventosTI/main-es5.6dafe277848992156c36.js": "0e36fec431b258ebf03843e93c340895bc765227",
     "https://marcialwushu.github.io/EventosTI/polyfills-es2015.d82294eab3776add2aea.js": "3e8e13c20d952ed086f1eec54c0d0bf7cdb34142",
     "https://marcialwushu.github.io/EventosTI/polyfills-es5.669d900ea7d78c1ac512.js": "ae2bdf7b1e58515780df54e562a3387098cdeb66",
-    "https://marcialwushu.github.io/EventosTI/runtime-es2015.2ed186a0a09068eb2a45.js": "94402778297b55762e9d3a67c38e83f1f69985bd",
-    "https://marcialwushu.github.io/EventosTI/runtime-es5.2ed186a0a09068eb2a45.js": "4f14e387779e05c14b0ab4810361859ee369e08d",
+    "https://marcialwushu.github.io/EventosTI/runtime-es2015.a60e3c0a16a84a1917b5.js": "8cba8b2699e87695efdb9f7eaf26c745cdc8f22a",
+    "https://marcialwushu.github.io/EventosTI/runtime-es5.a60e3c0a16a84a1917b5.js": "8d43bfde8d463dd190b74ac782cb39123ca2f495",
     "https://marcialwushu.github.io/EventosTI/styles.e3faa02aef6c16ff40e8.css": "a0f3ae019ffcc6f7d9296ff3ea1f29aecbb9d5fd"
   },
   "navigationUrls": [
