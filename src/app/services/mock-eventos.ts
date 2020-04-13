@@ -97,9 +97,21 @@ export const EVENTOS: Evento[] = [
     hora: "14:00 h",
     valor: "Gratuito",
     website: "https://phpcomrapadura.org/",
-    organizacao: "React.js Ceará",
+    organizacao: "PHP com Rapadura",
     conteudo: "Venho aqui convidar-los a participar do nosso 'Encontro de devs PHP com Rapadura', esse ano por recomendações da Organização Mundial de Saúde o evento não pode ser realizado presencialmente, mas nós Cearenses arretados iremos disponibilizar uma LIVE ao vivo em todas as nossas redes sociais no dia 11 de Abril as 14:00hs. Contamos com a sua colaboração para arrecadar fundos que serão convertidos em cestas básicas e distribuídas nas comunidades carentes no estado do Ceará, um dos estados com maior números de casos confirmados do COVID-19 em todo Brasil.Então vocês podem ajudar colaborando com a nossa Vakinha e ajudando ao próximo além de assistir à um ótimo conteúdo de Tecnologia. http://bit.ly/vakinhacomrapadura",
     imagem: "https://i.ytimg.com/vi/-awTWE5f75I/maxresdefault.jpg",
+  },
+  {
+    id: 9,
+    nome: "LIVE FORENSIC WEEK ",
+    data: "13, 14, 15, 16 e 17 Abril",
+    local: "Live Instagram",
+    hora: "21:00 h",
+    valor: "Gratuito",
+    website: "https://www.instagram.com/marcosjmonteiro/?hl=pt-br",
+    organizacao: "prof Marcos Monteiro",
+    conteudo: "Esta semana o prof Marcos Monteiro, presidente da APECOF receberá no Instrgram estes noomes da computação forense e do direito digital. todos os dias as 21h!",
+    imagem: "https://trello-attachments.s3.amazonaws.com/5d7e8031eaec3e42c24aade0/5e94f88f99a48502ea68509f/01ba943e369501fe023ab19535eca1b9/apecof_93574580_523554231691773_132562022650725995_n.jpg",
   }
 ]
 
