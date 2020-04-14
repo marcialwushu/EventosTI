@@ -112,6 +112,30 @@ export const EVENTOS: Evento[] = [
     organizacao: "prof Marcos Monteiro",
     conteudo: "Esta semana o prof Marcos Monteiro, presidente da APECOF receberá no Instrgram estes noomes da computação forense e do direito digital. todos os dias as 21h!",
     imagem: "https://trello-attachments.s3.amazonaws.com/5d7e8031eaec3e42c24aade0/5e94f88f99a48502ea68509f/01ba943e369501fe023ab19535eca1b9/apecof_93574580_523554231691773_132562022650725995_n.jpg",
+  },
+  {
+    id: 10,
+    nome: "Capitulo da OWASP Fortaleza",
+    data: "25 de Abril",
+    local: "Online",
+    hora: "09:00 h ",
+    valor: "Gratuito",
+    website: "https://lnkd.in/eedUt8W",
+    organizacao: "SUCESU CE",
+    conteudo: "O OWASP, sigla de Open Web Application Security Project, é uma organização internacional sem fins lucrativos destinada à transmissão de conhecimento e conscientização no que diz respeito à segurança de software, especialmente Web Security. Todos seus projetos, ferramentas, documentos, fóruns e capítulos são abertos à participação de qualquer pessoa interessada em melhorar a segurança de aplicações. Fortaleza é a capital do estado do Ceará. Possuindo quase 3 milhões de habitantes (segundo a estimativa IBGE 2019), é a quinta mais populosa do Brasil e uma das mais importantes da Região Nordeste. Fortaleza é um hub fundamental de telecomunicações, pois concentra diversos cabos submarinos internacionais, que realizam a ligação do território brasileiro aos Estados Unidos, Europa e África. Por fim, a capital também demonstra sua importância por ser um hub de aviação, possuindo voos diretos para diversas cidades no exterior.",
+    imagem: "https://trello-attachments.s3.amazonaws.com/5d7e8031eaec3e42c24aade0/5e94f88f99a48502ea68509f/db7a9083761c8de4cb310fc8cc0d151f/sucesu.ceara_92243890_2559104171030086_5738496330678483423_n.jpg",
+  },
+  {
+    id: 11,
+    nome: "[LIVE] GDG Talk - Por que web devs amam (ou pelo menos deveriam amar)o Flutter.",
+    data: "16 de Abril",
+    local: "Online",
+    hora: "19:00 h ",
+    valor: "Gratuito",
+    website: "https://forms.gle/76dCVg9FHGxGUBD58",
+    organizacao: "GDG Campinas",
+    conteudo: "No dia 16/04 às 19:00h, em uma sala do zoom, teremos um encontro para falarmos um pouco sobre Firebase com o Edigleysson Silva, Analista de Sistema e entusiasta de tecnologia.O Flutter é o Framework de desenvolvimento Mobile mais hypado do momento. Trazendo uma performance nativa, layouts bonitos e com excelente suporte a animações essa tecnologia tem ganhado cada vez mais adeptos.",
+    imagem: "https://trello-attachments.s3.amazonaws.com/5d7e8031eaec3e42c24aade0/5e94f88f99a48502ea68509f/e2bb0c97b17e10350b95e02e1169ceb9/highres_490113473.png",
   }
 ]
 
