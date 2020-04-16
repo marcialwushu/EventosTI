@@ -12,6 +12,25 @@ export const EVENTOS: Evento[] = [
     organizacao: "Hacker Security",
     conteudo: "Promovido pela Hacker Security e aberto ao público o objetivo do evento HackerSec Conference é reunir os especialistas de cibersegurança mais conhecidos do Brasil para discutir sobre inovação na área de segurança da informação e mostrar na prática as armas cibernéticas.",
     imagem: "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F78077459%2F302329341229%2F1%2Foriginal.20191024-153613?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C120%2C1920%2C960&s=257b0d370ff695cb67a6aea2589eb9eb",
+    programacao: [
+      {
+        id: 1,
+        palestra: "string",
+        plaestrante: "string",
+        instagram: "string",
+        github: "string",
+        twitter: "string",
+        facebook: "string",
+        slides: "string",
+        youtube: "string",
+        avatar: "string",
+        link: "string",
+        linkedin: "",
+        site: "",
+        work: "",
+        descricao: "string",
+      }
+    ]
     
   },
   {
@@ -25,6 +44,25 @@ export const EVENTOS: Evento[] = [
     organizacao: "PHPeste",
     conteudo: "	PHPeste 2020 será  na cidade de Natal/RN. Estamos organizando esse evento incrível para vocês, então entre no nosso grupo do Telegram e siga o @phpeste nas redes sócias para ficar por dentro das novidades.",
     imagem: "https://phpeste.net/assets/images/logo-prancheta-1.svg",
+    programacao: [
+      {
+        id: 1,
+        palestra: "string",
+        plaestrante: "string",
+        instagram: "string",
+        github: "string",
+        twitter: "string",
+        facebook: "string",
+        slides: "string",
+        youtube: "string",
+        avatar: "string",
+        link: "string",
+        linkedin: "",
+        site: "",
+        work: "",
+        descricao: "string",
+      }
+    ]
     
   },
   {
@@ -38,6 +76,25 @@ export const EVENTOS: Evento[] = [
     organizacao: "PUGCE",
     conteudo: "O Pylestras é um evento sem fins lucrativo que consiste em um​ dia de palestras de tecnologia no qual palestrante e os convidados e/ou selecionados por votação compartilham sua experiência com estudantes e profissionais da área. Os assuntos das palestras são variados, contudo, orbitam o ecossistema da linguagem de programação​ Python.",
     imagem: "https://images.sympla.com.br/5db080cd16b7c.png",
+    programacao: [
+      {
+        id: 1,
+        palestra: "string",
+        plaestrante: "string",
+        instagram: "string",
+        github: "string",
+        twitter: "string",
+        facebook: "string",
+        slides: "string",
+        youtube: "string",
+        avatar: "string",
+        link: "string",
+        linkedin: "",
+        site: "",
+        work: "",
+        descricao: "string",
+      }
+    ]
     
   },
   {
@@ -51,6 +108,25 @@ export const EVENTOS: Evento[] = [
     organizacao: "https://congresse.me",
     conteudo: "2º Congresso online de Gestão de Documentos e Informações (GDIOnline2019) é um evento 100% na internet. Traz renomados profissionais da área de Ciência da Informação, Arquivologia, Biblioteconomia, Direito, Tecnologia da Informação, entre outros, que vão discutir uma temática complexa e com diversas vertentes.",
     imagem: "https://crb13.org.br/wp-content/uploads/2019/07/gdi-online-2019.png",
+    programacao: [
+      {
+        id: 1,
+        palestra: "string",
+        plaestrante: "string",
+        instagram: "string",
+        github: "string",
+        twitter: "string",
+        facebook: "string",
+        slides: "string",
+        youtube: "string",
+        avatar: "string",
+        link: "string",
+        linkedin: "",
+        site: "",
+        work: "",
+        descricao: "string",
+      }
+    ]
     
   },
   {
@@ -63,7 +139,26 @@ export const EVENTOS: Evento[] = [
     website: "https://github.com/reactjs-ceara",
     organizacao: "React.js Ceará",
     conteudo: "Eai, vamos começar 2020 falando de React.js? Dia 18 de janeiro estaremos na Agenda Edu realizando nosso prímeiro meetup do ano.",
-    imagem: "https://i0.hdslb.com/bfs/archive/d5cc9e285a3aeaaceee80598aaae378812935e17.jpg",
+    imagem: "https://trello-attachments.s3.amazonaws.com/5d7e8031eaec3e42c24aade0/5e94f88f99a48502ea68509f/f5b81d8f5bcbf3dc2320da9e31dab249/d5cc9e285a3aeaaceee80598aaae378812935e17.jpg",
+    programacao: [
+      {
+        id: 1,
+        palestra: "string",
+        plaestrante: "string",
+        instagram: "string",
+        github: "string",
+        twitter: "string",
+        facebook: "string",
+        slides: "string",
+        youtube: "string",
+        avatar: "string",
+        link: "string",
+        linkedin: "",
+        site: "",
+        work: "",
+        descricao: "string",
+      }
+    ]
   },
   {
     id: 6,
@@ -76,6 +171,25 @@ export const EVENTOS: Evento[] = [
     organizacao: "Arretadas do PHP",
     conteudo: "Nosso grupo é formado por ARRETADAS do Ceará, que visam trazer mais mulheres para o mundo da tecnologia. Especialmente, PHP. Como extensão feminina do PHP com Rapadura, amamos o que fazemos. Porque aprender é bom, mas, compartilhar conhecimento é melhor ainda.",
     imagem: "http://arretadas.phpcomrapadura.org/img/profile.jpg",
+    programacao: [
+      {
+        id: 1,
+        palestra: "string",
+        plaestrante: "string",
+        instagram: "string",
+        github: "string",
+        twitter: "string",
+        facebook: "string",
+        slides: "string",
+        youtube: "string",
+        avatar: "string",
+        link: "string",
+        linkedin: "",
+        site: "",
+        work: "",
+        descricao: "string",
+      }
+    ]
   },
   {
     id: 7,
@@ -88,6 +202,25 @@ export const EVENTOS: Evento[] = [
     organizacao: "Open Knowledge Brasil (OKBR)",
     conteudo: "O ODD Fortaleza 2020 discutirá Dados Abertos, Transparência e Pandemia. O evento será feito de maneira remota, utilizando o Hangouts Meet. O link para as inscrições está na bio. Na parte da manhã teremos palestras e à tarde oficinas.",
     imagem: "https://www.ok.org.br/wp-content/uploads/2020/04/odd-fortaleza-cropnw.jpg",
+    programacao: [
+      {
+        id: 1,
+        palestra: "string",
+        plaestrante: "string",
+        instagram: "string",
+        github: "string",
+        twitter: "string",
+        facebook: "string",
+        slides: "string",
+        youtube: "string",
+        avatar: "string",
+        link: "string",
+        linkedin: "",
+        site: "",
+        work: "",
+        descricao: "string",
+      }
+    ]
   },
   {
     id: 8,
@@ -100,6 +233,25 @@ export const EVENTOS: Evento[] = [
     organizacao: "PHP com Rapadura",
     conteudo: "Venho aqui convidar-los a participar do nosso 'Encontro de devs PHP com Rapadura', esse ano por recomendações da Organização Mundial de Saúde o evento não pode ser realizado presencialmente, mas nós Cearenses arretados iremos disponibilizar uma LIVE ao vivo em todas as nossas redes sociais no dia 11 de Abril as 14:00hs. Contamos com a sua colaboração para arrecadar fundos que serão convertidos em cestas básicas e distribuídas nas comunidades carentes no estado do Ceará, um dos estados com maior números de casos confirmados do COVID-19 em todo Brasil.Então vocês podem ajudar colaborando com a nossa Vakinha e ajudando ao próximo além de assistir à um ótimo conteúdo de Tecnologia. http://bit.ly/vakinhacomrapadura",
     imagem: "https://i.ytimg.com/vi/-awTWE5f75I/maxresdefault.jpg",
+    programacao: [
+      {
+        id: 1,
+        palestra: "string",
+        plaestrante: "string",
+        instagram: "string",
+        github: "string",
+        twitter: "string",
+        facebook: "string",
+        slides: "string",
+        youtube: "string",
+        avatar: "string",
+        link: "string",
+        linkedin: "",
+        site: "",
+        work: "",
+        descricao: "string",
+      }
+    ]
   },
   {
     id: 9,
@@ -112,6 +264,25 @@ export const EVENTOS: Evento[] = [
     organizacao: "prof Marcos Monteiro",
     conteudo: "Esta semana o prof Marcos Monteiro, presidente da APECOF receberá no Instrgram estes noomes da computação forense e do direito digital. todos os dias as 21h!",
     imagem: "https://trello-attachments.s3.amazonaws.com/5d7e8031eaec3e42c24aade0/5e94f88f99a48502ea68509f/01ba943e369501fe023ab19535eca1b9/apecof_93574580_523554231691773_132562022650725995_n.jpg",
+    programacao: [
+      {
+        id: 1,
+        palestra: "string",
+        plaestrante: "string",
+        instagram: "string",
+        github: "string",
+        twitter: "string",
+        facebook: "string",
+        slides: "string",
+        youtube: "string",
+        avatar: "string",
+        link: "string",
+        linkedin: "",
+        site: "",
+        work: "",
+        descricao: "string",
+      }
+    ]
   },
   {
     id: 10,
@@ -124,6 +295,25 @@ export const EVENTOS: Evento[] = [
     organizacao: "SUCESU CE",
     conteudo: "O OWASP, sigla de Open Web Application Security Project, é uma organização internacional sem fins lucrativos destinada à transmissão de conhecimento e conscientização no que diz respeito à segurança de software, especialmente Web Security. Todos seus projetos, ferramentas, documentos, fóruns e capítulos são abertos à participação de qualquer pessoa interessada em melhorar a segurança de aplicações. Fortaleza é a capital do estado do Ceará. Possuindo quase 3 milhões de habitantes (segundo a estimativa IBGE 2019), é a quinta mais populosa do Brasil e uma das mais importantes da Região Nordeste. Fortaleza é um hub fundamental de telecomunicações, pois concentra diversos cabos submarinos internacionais, que realizam a ligação do território brasileiro aos Estados Unidos, Europa e África. Por fim, a capital também demonstra sua importância por ser um hub de aviação, possuindo voos diretos para diversas cidades no exterior.",
     imagem: "https://trello-attachments.s3.amazonaws.com/5d7e8031eaec3e42c24aade0/5e94f88f99a48502ea68509f/db7a9083761c8de4cb310fc8cc0d151f/sucesu.ceara_92243890_2559104171030086_5738496330678483423_n.jpg",
+    programacao: [
+      {
+        id: 1,
+        palestra: "string",
+        plaestrante: "string",
+        instagram: "string",
+        github: "string",
+        twitter: "string",
+        facebook: "string",
+        slides: "string",
+        youtube: "string",
+        avatar: "string",
+        link: "string",
+        linkedin: "",
+        site: "",
+        work: "",
+        descricao: "string",
+      }
+    ]
   },
   {
     id: 11,
@@ -136,6 +326,121 @@ export const EVENTOS: Evento[] = [
     organizacao: "GDG Campinas",
     conteudo: "No dia 16/04 às 19:00h, em uma sala do zoom, teremos um encontro para falarmos um pouco sobre Firebase com o Edigleysson Silva, Analista de Sistema e entusiasta de tecnologia.O Flutter é o Framework de desenvolvimento Mobile mais hypado do momento. Trazendo uma performance nativa, layouts bonitos e com excelente suporte a animações essa tecnologia tem ganhado cada vez mais adeptos.",
     imagem: "https://trello-attachments.s3.amazonaws.com/5d7e8031eaec3e42c24aade0/5e94f88f99a48502ea68509f/e2bb0c97b17e10350b95e02e1169ceb9/highres_490113473.png",
+    programacao: [
+      {
+        id: 1,
+        palestra: "string",
+        plaestrante: "string",
+        instagram: "string",
+        github: "string",
+        twitter: "string",
+        facebook: "string",
+        slides: "string",
+        youtube: "string",
+        avatar: "string",
+        link: "string",
+        linkedin: "",
+        site: "",
+        work: "",
+        descricao: "string",
+      }
+    ]
+  },
+  {
+    id: 12,
+    nome: "Roadsec@Home #1",
+    data: "15/04",
+    local: "EVENTO VIRTUAL",
+    hora: "6:30PM to 10:55PM ",
+    valor: "Gratuito",
+    website: "https://hopin.to/events/roadsec@home1",
+    organizacao: "Flipside",
+    conteudo: "O Roadsec@Home é uma série de eventos com edições semanais que vai reunir especialistas e profissionais para trazer conteúdo de ponta para você se manter atualizado. O evento é GRATUITO mas você pode adquirir um ingresso como forma de doar e apoiar espaços que fomentam a cultura hacker e maker. Nessa primeira edição vamos priorizar Hackerspaces que possuem iniciativas voltadas ao combate à epidemia do COVID-19.",
+    imagem: "https://trello-attachments.s3.amazonaws.com/5d7e8031eaec3e42c24aade0/5e94f88f99a48502ea68509f/2a7a7738dad49a782d209a565f62d4fa/roadsec_93116306_852328841924250_6000492837628222912_n.jpg",
+    programacao: [
+      {
+        id: 1,
+        palestra: "Sessão Comunidade: Respirador Hacker",
+        plaestrante: "Rodrigo Ferraz Azevedo",
+        instagram: "",
+        github: "",
+        twitter: "https://twitter.com/rodrigofazevedo",
+        facebook: "",
+        slides: "",
+        youtube: "",
+        avatar: "https://s3.amazonaws.com/quiin/users/pictures/000/124/902/medium/data?1586970664",
+        link: "",
+        linkedin: "https://www.linkedin.com/in/rodrigoferrazazevedo/",
+        site: "http://www.rodrigoazevedo.com/",
+        work: "",
+        descricao: "",
+      },
+      
+    ]
+  },
+  {
+    id: 13,
+    nome: "RPA Meeting RH Recursos Humanos 2020",
+    data: "02/04/2020",
+    local: "Rua Coronel Oscar Porto, 836 - Paraíso, São Paulo - SP",
+    hora: "8:30 a 18:00 ",
+    valor: "",
+    website: "https://www.sympla.com.br/rpa-meeting-rh-recursos-humanos-2020__500807",
+    organizacao: "Instituto Information Management",
+    conteudo: "O Instituto Information Management e a ABEINFO Associação de Empresas e Profissionais da Informação, realizarão no dia 02 de abril de 2020, no hotel MATSUBARA São Paulo, o evento RPA MEETING para o setor de Recursos Humanos. O RPA MEETING irá reunir consultores, especialistas da indústria e usuários para debater e trocar experiências sobre a força de transformação do RPA Robotic Process Automation como ferramenta digital para o processamento de tarefas com alto grau de rotinas e uso intensivo de mão de obra. O conteúdo do congresso detalha estudos de casos de organizações líderes em todo o mundo e aborda como essas empresas estão utilizando de forma efetiva o RPA somado à COMPUTAÇÃO COGNITIVA e INTELIGÊNCIA ARTIFICIAL como meio para melhorar a prestação de serviços, aumentar a produtividade, reduzir custos e gerar lucros.",
+    imagem: "https://trello-attachments.s3.amazonaws.com/5d7e8031eaec3e42c24aade0/5e94f88f99a48502ea68509f/2d30408df6f11f05fbef91a4efd9415e/rpa-meeting-rh-20-eventostech-800x450.jpg",
+    programacao: [
+      {
+        id: 1,
+        palestra: "",
+        plaestrante: "",
+        instagram: "",
+        github: "",
+        twitter: "",
+        facebook: "",
+        slides: "",
+        youtube: "",
+        avatar: "",
+        link: "",
+        linkedin: "",
+        site: "",
+        work: "",
+        descricao: "",
+      },
+
+    ]
+  },
+  {
+    id: 14,
+    nome: "#CapiConf 2020",
+    data: "15/05/2020 a 16/05/2020",
+    local: "R. Prof. Pedro Viriato Parigot de Souza, 5300 - Cidade Industrial De Curitiba, Curitiba - PR",
+    hora: "8:30 a 18:00 ",
+    valor: "",
+    website: "https://capiconf.com/2020/start",
+    organizacao: "Instituto Information Management",
+    conteudo: "Palestras apresentando cases do mundo real, entregues por palestrantes com experiências práticas, profissionais do desenvolvimento, liderança de times e gestão técnica, tudo isso em um ambiente propício para troca de experiências e contatos. Serão mais de 16 palestrantes de alto nível que compartilharão seus conhecimentos nas áreas de, Desenvolvimento de Software, Testes, Acessibilidade, User Interface e Usabilidade, Inteligência Artificial, DevOps, Empreendedorismo, Tecnologia, Comportamento e muito mais! Uma agenda diversa e completa com dezenas de novas ideias.",
+    imagem: "https://trello-attachments.s3.amazonaws.com/5d7e8031eaec3e42c24aade0/5e94f88f99a48502ea68509f/afd153671a37ebadb5704872ed465923/capiconf19-eventostech-800x450.jpg",
+    programacao: [
+      {
+        id: 1,
+        palestra: "",
+        plaestrante: "",
+        instagram: "",
+        github: "",
+        twitter: "",
+        facebook: "",
+        slides: "",
+        youtube: "",
+        avatar: "",
+        link: "",
+        linkedin: "",
+        site: "",
+        work: "",
+        descricao: "",
+      },
+
+    ]
   }
 ]
 

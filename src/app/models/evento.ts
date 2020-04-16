@@ -1,3 +1,5 @@
+
+
 export class Evento {
   id: number;
   nome: string;
@@ -9,4 +11,24 @@ export class Evento {
   organizacao: string;
   conteudo: string;
   imagem: string;
+  programacao: [
+    {
+      id: number;
+      palestra: string;
+      plaestrante: string;
+      instagram: string;
+      github: string;
+      twitter: string;
+      facebook: string;
+      slides: string;
+      youtube: string;
+      avatar: string;
+      link: string;
+      linkedin: string;
+      site: string;
+      work: string;
+      descricao: string;
+    }
+  ]
+  
 }
